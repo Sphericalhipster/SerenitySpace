@@ -1,6 +1,7 @@
 # SerenitySpace
 
 Aplicación de bienestar emocional desarrollada con React Native, Expo y Supabase, con seguimiento del estado de ánimo, herramientas de autorregulación, recursos de apoyo psicológico y académicos.
+
 A mobile application for emotional well-being, developed with React Native, Expo, and Supabase. It provides mood tracking, emotional self-regulation tools, and access to psychological and academic support resources.
 
 
