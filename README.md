@@ -4,6 +4,7 @@ Aplicación de bienestar emocional desarrollada con React Native, Expo y Supabas
 
 A mobile application for emotional well-being, developed with React Native, Expo, and Supabase. It provides mood tracking, emotional self-regulation tools, and access to psychological and academic support resources.
 
+SerenitySpace is a mobile application for emotional well-being, developed with React Native, Expo, and Supabase. This repository contains an updated version of our original project, available at [CarlosDRomero/SerenitySpaceDev](https://github.com/CarlosDRomero/SerenitySpaceDev), which was developed by my team and me. The project focuses on mood tracking, emotional self-regulation, and access to psychological and academic support resources.
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/CarlosDRomero/SerenitySpaceDev)
 
